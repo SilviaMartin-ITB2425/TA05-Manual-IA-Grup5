@@ -1,6 +1,6 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 # Índice
-- [Modelos de Lenguaje](#modelos-de-Lenguaje)
+- [Modelos de Lenguaje](#modelos-de-lenguaje)
 - [Características](#características)
 - [Conclusión](#conclusión)
 
@@ -8,7 +8,8 @@
 1. Modelos de Lenguaje
 2. Help Scout
 3. Tidio
-   
+   Texto normal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con muchos espacios.
+
 ### Modelos de Lenguaje
 - **Aplicaciones de la IA:** Ayuda
 - **Impacto al sector:** Todo el mundo a la calle
