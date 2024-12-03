@@ -1,7 +1,7 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 # Índice
 - [IAs para redes](#ias-para-redes)
-  - [GPT-4](#GPT4)
+  - [GPT-4](#gpt4)
 -   [](#conclusión)
 
 ## IAs para redes
