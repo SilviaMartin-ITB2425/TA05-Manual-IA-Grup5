@@ -2,7 +2,7 @@
 # Índice
 - [IAs para redes](#ias-para-redes)
   - [IA generativa](#ia-generativa)
-  - [Modelos de lenguaje grande](#conclusión)
+  - [Modelos de lenguaje grande](#modelos-de-lenguaje-grande)
   - [Procesamiento y la comprensión del lenguaje natural](#procesamiento-y-la-comprensión-del-lenguaje-natural)
 
 ## IAs para redes
