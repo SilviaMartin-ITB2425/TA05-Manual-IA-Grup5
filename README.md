@@ -1,6 +1,6 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 # Índice
-- [Modelos de Lenguaje](#Modelos de Lenguaje)
+- [Modelos de Lenguaje](#modelos-de-Lenguaje)
 - [Características](#características)
 - [Conclusión](#conclusión)
 
