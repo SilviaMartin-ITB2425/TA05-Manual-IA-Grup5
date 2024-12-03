@@ -7,9 +7,9 @@
 5. Gorgias
 
 # Índice
-- [Introducción](#introducción)
+- [Modelos de Lenguaje](#Lenguaje)
 - [Características](#características)
 - [Conclusión](#conclusión)
 
-# Introducción
+# Lenguaje
 Este es el primer párrafo del contenido.
