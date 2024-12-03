@@ -4,10 +4,6 @@
 - [Características](#características)
 - [Conclusión](#conclusión)
 
-## IAs
-1.
-2. 
-
 ### IAs para soporte tecnico
 1. Modelos de Lenguaje
 2. Help Scout
