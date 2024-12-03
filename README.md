@@ -8,7 +8,6 @@
 1. Modelos de Lenguaje
 2. Help Scout
 3. Tidio
-   Texto normal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con muchos espacios.
 
 ### Modelos de Lenguaje
 - **Aplicaciones de la IA:** Ayuda
