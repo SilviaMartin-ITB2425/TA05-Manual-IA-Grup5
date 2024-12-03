@@ -9,7 +9,7 @@
 2. Help Scout
 3. Tidio
    
-### Lenguaje
+### Modelos de Lenguaje
 - Aplicaciones de la IA: Ayuda
 - Impacto al sector: Todo el mundo a la calle
 - Impacto ambiental: El cambio climatico es un invento del gobierno
