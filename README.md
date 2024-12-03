@@ -4,12 +4,13 @@
 - [Características](#características)
 - [Conclusión](#conclusión)
 
-### IAs para soporte tecnico
+## IAs para soporte tecnico
 1. Modelos de Lenguaje
 2. Help Scout
 3. Tidio
-4. Zendesk
-5. Gorgias
    
 ### Lenguaje
-Este es el primer párrafo del contenido.
+- Aplicaciones de la IA: Ayuda
+- Impacto al sector: Todo el mundo a la calle
+- Impacto ambiental: El cambio climatico es un invento del gobierno
+- Propuestas para minimizar impactos ambientales: Ninguna
