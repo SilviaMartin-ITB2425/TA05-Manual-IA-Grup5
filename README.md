@@ -11,5 +11,5 @@
 - [Características](#características)
 - [Conclusión](#conclusión)
 
-# Lenguaje
+## Lenguaje
 Este es el primer párrafo del contenido.
