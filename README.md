@@ -28,8 +28,6 @@
   - Medios y entretenimiento: En el reconocimiento de voz y el procesamiento del lenguaje natural para asistentes virtuales, subtitulados automáticos y análisis de sentimientos en redes sociales.
 - **Impacto ambiental:**
 - **Propuestas para minimizar:** impactos ambientales: Ninguna
-
----
    
 ### **Tabnine**
 - **Aplicaciones de la IA:**
