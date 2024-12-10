@@ -27,7 +27,7 @@
     
 - [IAs para la gestión de la seguridad](#IAs-para-la-gestión-de-la-seguridad)
   - [Clearview AI](#clearview)
-  - [Vectra AI](#vectra AI)
+  - [Vectra AI](#vectra-ai)
   - [Cylance](#cylance)
 
 ## IAs para la gestión de la seguridad
