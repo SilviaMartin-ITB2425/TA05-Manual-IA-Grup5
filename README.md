@@ -95,7 +95,7 @@
   - Implementar soluciones basadas en energías renovables.
   
  ### **Juniper Mist AI**
-  - **Aplicaciones de la IA:**
+- **Aplicaciones de la IA:**
   - Gestión automática de redes Wi-Fi para optimizar el rendimiento.
   - Localización de usuarios en interiores mediante análisis de patrones de señal.
   - Análisis predictivo para evitar interrupciones en la conectividad.
