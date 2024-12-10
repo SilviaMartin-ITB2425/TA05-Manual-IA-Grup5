@@ -1,9 +1,5 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 # Índice
-- [IAs para gestion de la seguridad](#ias-para-gestion-de-la-seguridad)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
 
 - [IAs para desenvolupar](#ias-para-desenvolupar)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
