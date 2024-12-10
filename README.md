@@ -42,7 +42,7 @@
   2. Juniper Mist AI
   3. Darktrace Cyber AI
    
-### **1. Cisco AI Network Analytics**
+### **Cisco AI Network Analytics**
 - **Aplicaciones de la IA:**
   - Monitorización en tiempo real del tráfico de red.
   - Detección de anomalías y predicción de fallos.
@@ -60,7 +60,7 @@
   - Implementar soluciones basadas en energías renovables.
 
 
-### **2. Juniper Mist AI**
+### **Juniper Mist AI**
 - **Aplicaciones de la IA:**
   - Gestión automática de redes Wi-Fi para optimizar el rendimiento.
   - Localización de usuarios en interiores mediante análisis de patrones de señal.
@@ -78,7 +78,7 @@
   - Utilizar tecnologías de bajo consumo en ubicaciones donde la actividad sea intermitente.
 
 
-### **3. Darktrace Cyber AI**
+### **Darktrace Cyber AI**
 - **Aplicaciones de la IA:**
   - Detección y respuesta a ciberamenazas en tiempo real.
   - Análisis de comportamiento para identificar actividades sospechosas.
