@@ -94,7 +94,7 @@
   - Optimizar algoritmos para reducir el consumo computacional.
   - Implementar soluciones basadas en energías renovables.
   
- ### **2. Juniper Mist AI**
+ ### **Juniper Mist AI**
   - **Aplicaciones de la IA:**
   - Gestión automática de redes Wi-Fi para optimizar el rendimiento.
   - Localización de usuarios en interiores mediante análisis de patrones de señal.
