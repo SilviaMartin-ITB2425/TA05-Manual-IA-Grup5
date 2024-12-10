@@ -2,7 +2,7 @@
 # Índice
 - [IAs para redes](#ias-para-redes)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
+  - [Juniper Mist AI](#juniper-mist-AI)
   - [Darktrace Cyber AI](#darktrace-cyber-ai)
 
 ## IAs para redes
