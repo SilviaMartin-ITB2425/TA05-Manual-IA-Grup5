@@ -47,30 +47,7 @@
 - **Impacto ambiental:** El cambio climatico es un invento del gobierno
 - **Propuestas para minimizar:** impactos ambientales: Ninguna
 
-- [IAs para analisis de datos](#ias-para-analisis-de-datos)
-  - [TensorFlow](#tensorflow)
-  - [PyTorch](#pytorch)
-  - [H20.ai](#h20-ai)
-    
-- [IAs para soporte tecnico](#ias-para-soporte-tecnico)
-  - [Modelos de Lenguaje](#modelos-de-lenguaje)
-  - [Help Scout](#help-scout)
-  - [Tidio](#tidio)
-    
-- [IAs para redes](#ias-para-redes)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
-    
-- [IAs para gestion de la seguridad](#ias-para-gestion-de-la-seguridad)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
-
-- [IAs para desenvolupar](#ias-para-desenvolupar)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
+---
 
 ## IAs para analisis de datos
 1. TensorFlow
