@@ -4,14 +4,17 @@
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
   - [Juniper Mist AI](#juniper-mist-ai)
   - [Darktrace Cyber AI](#darktrace-cyber-ai)
-- [As para soporte tecnico](#ias-para-soporte-tecnico)
+    
+- [IAs para soporte tecnico](#ias-para-soporte-tecnico)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
   - [Juniper Mist AI](#juniper-mist-ai)
   - [Darktrace Cyber AI](#darktrace-cyber-ai)
+    
 - [IAs para redes](#ias-para-redes)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
   - [Juniper Mist AI](#juniper-mist-ai)
   - [Darktrace Cyber AI](#darktrace-cyber-ai)
+    
 - [IAs para redes](#ias-para-redes)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
   - [Juniper Mist AI](#juniper-mist-ai)
