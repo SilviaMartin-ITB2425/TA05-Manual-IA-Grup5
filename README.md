@@ -20,6 +20,11 @@
   - [Juniper Mist AI](#juniper-mist-ai)
   - [Darktrace Cyber AI](#darktrace-cyber-ai)
 
+- [IAs para desenvolupar](#ias-para-desenvolupar)
+  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
+  - [Juniper Mist AI](#juniper-mist-ai)
+  - [Darktrace Cyber AI](#darktrace-cyber-ai)
+
 ## IAs para analisis de datos
 1. TensorFlow
 2. PyTorch
