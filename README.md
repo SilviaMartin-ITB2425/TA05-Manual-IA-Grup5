@@ -27,7 +27,6 @@
   - Optimizar algoritmos para reducir el consumo computacional.
   - Implementar soluciones basadas en energías renovables.
 
----
 
 ### **2. Juniper Mist AI**
 - **Aplicaciones de la IA:**
@@ -46,7 +45,6 @@
   - Promover el reciclaje y reutilización de dispositivos de red.
   - Utilizar tecnologías de bajo consumo en ubicaciones donde la actividad sea intermitente.
 
----
 
 ### **3. Darktrace Cyber AI**
 - **Aplicaciones de la IA:**
