@@ -35,7 +35,7 @@
 - **Impacto ambiental:**
 - **Propuestas para minimizar:** impactos ambientales: Ninguna
 
-
+---
 
 ## IAs para soporte tecnico
 1. Modelos de Lenguaje
@@ -48,6 +48,7 @@
 - **Impacto ambiental:** Los modelos de lenguaje tienen un impacto ambiental aunque no muy grande, esto se debe a su entrenamiento que requiere de grandes capacidades de energia, y por lo tanto dejan una huella de carbono. 
 - **Propuestas para minimizar impactos ambientales:**  Sin duda la IA es algo que ha venido para quedarse, esto supone una huella de carbono pero quiza con energias renovables y compartiendo los modelos entre diferentes empresas no se tendria que dirigir tantos recursos al entrenamiento de estas.
 
+---
 
 ## IAs para redes
   1. Cisco AI Network Analytics
