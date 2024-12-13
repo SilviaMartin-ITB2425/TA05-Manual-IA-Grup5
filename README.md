@@ -39,7 +39,7 @@
   - A medida que las empresas confían más en la automatización y la inteligencia artificial, pueden volverse dependientes de estas tecnologías, lo que puede limitar la flexibilidad y capacidad de respuesta ante cambios imprevistos.
   
   ### **Tabnine**
-  - **Aplicaciones de la IA:**
+- **Aplicaciones de la IA:**
   - Completación de Código Impulsada por IA
   - Soporte Multilenguaje y de IDE
   - Enfoque en Privacidad y Seguridad
