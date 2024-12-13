@@ -1,4 +1,5 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
+
 ## IAs para la Gestión de la Seguridad
   1. IBM QRadar
   2. Clearview AI
@@ -6,6 +7,7 @@
 
 
 ### **IBM QRadar**
+
 - **Aplicaciones de la IA:**
   - Detección de amenazas en tiempo real mediante el análisis de datos de múltiples fuentes.
   - Correlación automática de eventos de seguridad para identificar incidentes críticos.
@@ -24,6 +26,7 @@
 
 
 ### **Clearview AI**
+
 - **Aplicaciones de la IA:**
   - Identificación facial en tiempo real para la prevención de delitos.
   - Búsqueda en bases de datos masivas de imágenes para localizar sospechosos.
@@ -42,6 +45,7 @@
 
 
 ### **Palo Alto Networks Cortex XDR**
+
 - **Aplicaciones de la IA:**
   - Detección y respuesta ante incidentes de seguridad mediante análisis de datos en endpoints, redes y servidores.
   - Correlación de eventos de seguridad para identificar patrones de ataque avanzados.
@@ -57,4 +61,5 @@
   - Uso de infraestructuras basadas en energías renovables.
   - Reducción de la dependencia en análisis constantes mediante ajustes a demanda.
   - Optimización del software para minimizar el consumo de recursos computacionales.
-
+ 
+ ---
