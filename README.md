@@ -51,7 +51,7 @@
   - Uso de servidores compartidos en lugar de dedicados para disminuir el impacto.
   - Reducción del tamaño de los modelos de detección sin comprometer la precisión.
   
-  ### Diffblue Cover
+### Diffblue Cover
 - **Aplicaciones de la IA:**
   - Diffblue Cover puede escribir pruebas unitarias de manera autónoma, ahorrando tiempo a los desarrolladores y aumentando la cobertura de pruebas.
   - Las pruebas unitarias generadas describen el comportamiento de cada método, lo que ayuda a documentar el código y facilita futuros cambios.
@@ -70,7 +70,7 @@
   - **Inversión en Energías Renovables:** Si el proceso requiere un uso significativo de energía, invertir en fuentes de energía renovable puede compensar el impacto ambiental.
   - **Diversificación de Herramientas:** No depender exclusivamente de una sola herramienta de automatización. Usar una combinación de herramientas y técnicas que ofrezcan flexibilidad y reduzcan la dependencia tecnológica.
   
-  ### **Tabnine**
+### **Tabnine**
 - **Aplicaciones de la IA:**
   - Completación de Código Impulsada por IA
   - Soporte Multilenguaje y de IDE
