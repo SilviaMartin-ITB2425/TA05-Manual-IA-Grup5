@@ -23,5 +23,5 @@
   - Alto consumo energético debido debido a la infraestructura que utilizan los centros de procesamiento. 
   - El entrenamiento de un único modelo generativo de IA contiene un alto consumo de agua.
 - **Propuestas para minimizar:**
-  - Optimizar los algoritmos y modelos para que consuman menos energía durante el entrenamiento y la inferencia.
-  - Utilizar hardware más eficiente energéticamente, como los chips diseñados específicamente para IA.
+  - Optimizar los modelos para que consuman menos energía durante el entrenamiento.
+  - Utilizar hardware especifico para las IA.
