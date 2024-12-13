@@ -1,6 +1,5 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 
-
 ## IAs para analisis de datos
 1. TensorFlow
 2. PyTorch 
@@ -93,9 +92,10 @@
   - Usar tecnologías de refrigeración eficiente en centros de datos.
   - Optimizar algoritmos para reducir el consumo computacional.
   - Implementar soluciones basadas en energías renovables.
-  
- ### **2. Juniper Mist AI**
-  - **Aplicaciones de la IA:**
+
+
+### **Juniper Mist AI**
+- **Aplicaciones de la IA:**
   - Gestión automática de redes Wi-Fi para optimizar el rendimiento.
   - Localización de usuarios en interiores mediante análisis de patrones de señal.
   - Análisis predictivo para evitar interrupciones en la conectividad.
@@ -128,13 +128,13 @@
   - Entrenamiento en entornos más eficientes energéticamente.
   - Uso de servidores compartidos en lugar de dedicados para disminuir el impacto.
   - Reducción del tamaño de los modelos de detección sin comprometer la precisión.
-
----
  
+ ---
+
 ## IAs para soporte tecnico
-  1. Modelos de Lenguaje
-  2. Help Scout
-  3. Tidio
+1. Modelos de Lenguaje
+2. Help Scout
+3. Tidio
 
 ### Modelos de Lenguaje
 - **Aplicaciones de la IA:** Puede dar asistencia en una gran variedad de aspectos como la programacion, la generacion de contenido, traduccion de idiomas entre otras.
@@ -148,10 +148,10 @@
 - **Impacto ambiental:** Al igual que siempre la IA tiene un impacto ambiental, tener esta IA significaria tener un servidor que consume energia constantemente conectado a los servidores de la empresa, esto sumado a que miles de empresas podrian usar aplicaciones como estas provoca que haya un consumo energetico aun mayor.
 - **Propuestas para minimizar impactos ambientales:** Como siempre lo mejor seria utilizar energia renovable y centralizar esta clase de servidores para asi evitar el entrenamiento y el consumo extra de energia, pero tambien hay mas cosas importantes como optimizar algoritmos, reciclaje de hardware y monitorear los servidores para que no consuman demasiado.
 
-
 ### Tidio
 - **Aplicaciones de la IA:** Tidio, la principal competidora de Help Scout ha demostrado ser mas que eficiente llegano incluso a resolver mas del 70% de las incidencias de las empresas gracias a su IA, tambien es posible enviar correos simples y que la IA maquille el mensaje para que sea mas profesional, Tidio tambien tiene integracion con Shopify y de esta forma puede ofrecer articulos relevantes a los clientes.
 - **Impacto al sector:** Pasa lo mismo que con Help Scout, estas IAs de soporte tecnico han venido para quedarse y no dudo en que son el futuro del sector, no por nada hay mas de 300.000 empresas que confian y usan Tidio.
 - **Impacto ambiental:** Al igual que en Help Scout estas IAs requieren servidores que consumen energia constantemente, lo cual puede tener un impacto significativo al largo de los años
 - **Propuestas para minimizar impactos ambientales:** Como esta IA tiene el mismo proposito y funcionalidades muy parecidas a las de Help Scout todo lo dicho para Help Scout aplica en esta: Eenergias renovables, optimizacion de algoritmos, reciclaje de hardware, centralizar servidores y monitorear los servidores.
 
+---
