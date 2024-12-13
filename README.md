@@ -1,10 +1,5 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 
-## IAs para desenvolupadores
-1. Amazon Q Developer
-2. Diffblue Cover
-3. Tabnine
-
 ### Amazon Q Developer
  
 ### Diffblue Cover
