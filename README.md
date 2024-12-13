@@ -1,4 +1,5 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
+
 ## IAs para soporte tecnico
 1. Modelos de Lenguaje
 2. Help Scout
@@ -21,3 +22,4 @@
 - **Impacto al sector:** Pasa lo mismo que con Help Scout, estas IAs de soporte tecnico han venido para quedarse y no dudo en que son el futuro del sector, no por nada hay mas de 300.000 empresas que confian y usan Tidio.
 - **Impacto ambiental:** Al igual que en Help Scout estas IAs requieren servidores que consumen energia constantemente, lo cual puede tener un impacto significativo al largo de los años
 - **Propuestas para minimizar impactos ambientales:** Como esta IA tiene el mismo proposito y funcionalidades muy parecidas a las de Help Scout todo lo dicho para Help Scout aplica en esta: Eenergias renovables, optimizacion de algoritmos, reciclaje de hardware, centralizar servidores y monitorear los servidores.
+---
