@@ -2,7 +2,7 @@
 
 # Índice
 - [IAs para desenvolupar](#IAs-para-desenvolupadores)
-  - [Amazon Q Developer](#diffblue-cover)
+  - [Amazon Q Developer](#amazon-q-developer)
   - [Diffblue Cover](#diffblue-cover)
   - [Tabnine](#tabnine)
     
