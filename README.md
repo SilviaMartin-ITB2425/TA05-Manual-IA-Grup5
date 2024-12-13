@@ -4,11 +4,11 @@
 - [IAs para desenvolupar](#ias-para-desenvolupar)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
   - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
+  - [Darktrace Cyber AI](#palo-alto-networks-cortex-xdr)
     
 - [IAs para la gestión de la seguridad](#IAs-para-la-gestión-de-la-seguridad)
+  - [IBM QRadar](#ibm-qradar)
   - [Clearview AI](#clearview)
-  - [Vectra AI](#vectra-ai)
   - [Cylance](#cylance)
     
 - [IAs para analisis de datos](#ias-para-analisis-de-datos)
