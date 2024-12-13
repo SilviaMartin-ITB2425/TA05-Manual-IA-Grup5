@@ -3,7 +3,7 @@
 
 ## IAs para analisis de datos
 1. TensorFlow
-2. PyTorch
+2. PyTorch 
 3. H20.ai
 
 ### TensorFlow
