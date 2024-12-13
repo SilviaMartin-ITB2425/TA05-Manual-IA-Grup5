@@ -1,139 +1,60 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
-# Índice
+## IAs para la Gestión de la Seguridad
+  1. IBM QRadar
+  2. Clearview AI
+  3. Palo Alto Networks Cortex XDR
 
-- [IAs para la gestión de la seguridad](#IAs-para-la-gestión-de-la-seguridad)
-- [Características](#características)
-- [Conclusión](#conclusión)
 
-## IAs para la gestión de la seguridad
-1. Clearview AI
-2. Vectra AI
-3. Cylance
-
-### Clearview AI
+### **IBM QRadar**
 - **Aplicaciones de la IA:**
-
-  - Reconomimiento facial: utiliza algoritmos avanzados de visión por computadora y aprendizaje profundo para realizar reconomiento facial a partir de imágenes. La IA puede identificar personas a través de una base de datos masiva de imágenes recopiladas de internet, redes sociales y otras fuentes públicas.
-  - Seguridad y Vigilancia: Se usa para mejorar la seguridad en diferentes sectores, como la seguridad pública, la protección contra el fraude y la prevención de delitos, permitiendo a las autoridades identificar rápidamente a personas buscadas.
-  - Autenticación en sistemas: En aplicaciones más específicas de seguridad informàtica, puede usarse en la autenticación de usuarios mediante reconocimiento facial para accedes a dispositivos o sistemas protegidos.
+  - Detección de amenazas en tiempo real mediante el análisis de datos de múltiples fuentes.
+  - Correlación automática de eventos de seguridad para identificar incidentes críticos.
+  - Priorización de alertas para una respuesta más rápida y efectiva.
 - **Impacto al sector:**
-  - Psitivo: Mejora la eficiencia en la identificación y autenticación de individuos, lo que incrementa la seguridad en sectores como la banca, la seguridad pública y la protección de datos personales. La automatización del reconocimiento facial también reduce los tiempos de respuesta en situaciones críticas.
-  - Negativo:
-- **Impacto ambiental:** El cambio climatico es un invento del gobierno
-- **Propuestas para minimizar:** impactos ambientales: Ninguna
-
-- [IAs para analisis de datos](#ias-para-analisis-de-datos)
-  - [TensorFlow](#tensorflow)
-  - [PyTorch](#pytorch)
-  - [H20.ai](#h20-ai)
-    
-- [IAs para soporte tecnico](#ias-para-soporte-tecnico)
-  - [Modelos de Lenguaje](#modelos-de-lenguaje)
-  - [Help Scout](#help-scout)
-  - [Tidio](#tidio)
-    
-- [IAs para redes](#ias-para-redes)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
-    
-- [IAs para gestion de la seguridad](#ias-para-gestion-de-la-seguridad)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
-
-- [IAs para desenvolupar](#ias-para-desenvolupar)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#darktrace-cyber-ai)
-
-## IAs para analisis de datos
-1. TensorFlow
-2. PyTorch
-3. H20.ai
-4. IBM Watson Analytics
-### TensorFlow
-- **Aplicaciones de la IA:**
-  - Es fundamental para manejar y analizar grandes volúmenes de datos, lo que es crucial en campos como la bioinformática y la finanza
-  - TensorFlow permite construir y entrenar redes neuronales profundas para tareas como reconocimiento de imágenes, procesamiento de lenguaje natural y análisis de voz
-  - Es útil para predecir tendencias y comportamientos futuros en datos temporales, como el análisis de series temporales financieras o meteorológicas
-- **Impacto al sector:**
-  - Finanzas: Utilizado para la detección de fraudes, análisis de riesgos y previsión de tendencias del mercado, ayudando a las instituciones financieras a tomar decisiones más informadas.
-  - Automoción: En el desarrollo de vehículos autónomos, ayudando a procesar y analizar datos de sensores y cámaras en tiempo real para la navegación y la toma de decisiones.
-  - Salud: En la detección precoz de enfermedades como el cáncer a través de la interpretación de imágenes médicas y análisis de datos clínicos, mejorando significativamente la precisión y rapidez del diagnóstico.
-  - Medios y entretenimiento: En el reconocimiento de voz y el procesamiento del lenguaje natural para asistentes virtuales, subtitulados automáticos y análisis de sentimientos en redes sociales.
+  - Mejora significativa en la detección de amenazas avanzadas, como ataques persistentes avanzados (*APTs*).
+  - Reducción de la carga de trabajo de los equipos de seguridad, al automatizar la gestión de alertas.
+  - Aumento de la precisión en la identificación de incidentes críticos, minimizando falsos positivos.
 - **Impacto ambiental:**
-- **Propuestas para minimizar:** impactos ambientales: Ninguna
-
----
-
-## IAs para soporte tecnico
-1. Modelos de Lenguaje
-2. Help Scout
-3. Tidio
-
-### Modelos de Lenguaje
-- **Aplicaciones de la IA:** Puede dar asistencia en una gran variedad de aspectos como la programacion, la generacion de contenido, traduccion de idiomas entre otras.
-- **Impacto al sector:** Sin duda los modelos de lenguaje como Chat GPT han tenido un impacto gigantesco en el sector, tareas que antes eran tardias ahora se pueden automatizar y hacer en cuestion de segundos.
-- **Impacto ambiental:** Los modelos de lenguaje tienen un impacto ambiental aunque no muy grande, esto se debe a su entrenamiento que requiere de grandes capacidades de energia, y por lo tanto dejan una huella de carbono. 
-- **Propuestas para minimizar impactos ambientales:**  Sin duda la IA es algo que ha venido para quedarse, esto supone una huella de carbono pero quiza con energias renovables y compartiendo los modelos entre diferentes empresas no se tendria que dirigir tantos recursos al entrenamiento de estas.
-
----
-
-## IAs para redes
-  1. Cisco AI Network Analytics
-  2. Juniper Mist AI
-  3. Darktrace Cyber AI
-   
-### **Cisco AI Network Analytics**
-- **Aplicaciones de la IA:**
-  - Monitorización en tiempo real del tráfico de red.
-  - Detección de anomalías y predicción de fallos.
-  - Optimización automática de recursos de red.
-- **Impacto al sector:**
-  - Mejora en la gestión proactiva de redes, reduciendo los tiempos de inactividad.
-  - Automatización de tareas repetitivas, permitiendo a los administradores centrarse en tareas estratégicas.
-  - Incremento en la eficiencia operativa en grandes infraestructuras de TI.
-- **Impacto ambiental:**
-  - Alto consumo energético en centros de datos que procesan grandes volúmenes de tráfico y predicciones.
-  - Incremento en la necesidad de hardware especializado.
+  - Uso intensivo de centros de datos para el análisis continuo de datos.
+  - Incremento en el consumo energético debido al procesamiento de grandes volúmenes de eventos de seguridad.
 - **Propuestas para minimizar:**
-  - Usar tecnologías de refrigeración eficiente en centros de datos.
-  - Optimizar algoritmos para reducir el consumo computacional.
-  - Implementar soluciones basadas en energías renovables.
+  - Implementar análisis más eficientes energéticamente.
+  - Usar centros de datos alimentados con energía renovable.
+  - Optimizar algoritmos para reducir el consumo de recursos computacionales.
 
 
-### **Juniper Mist AI**
+### **Clearview AI**
 - **Aplicaciones de la IA:**
-  - Gestión automática de redes Wi-Fi para optimizar el rendimiento.
-  - Localización de usuarios en interiores mediante análisis de patrones de señal.
-  - Análisis predictivo para evitar interrupciones en la conectividad.
+  - Identificación facial en tiempo real para la prevención de delitos.
+  - Búsqueda en bases de datos masivas de imágenes para localizar sospechosos.
+  - Apoyo en investigaciones mediante la correlación de datos visuales y de redes sociales.
 - **Impacto al sector:**
-  - Experiencia de usuario mejorada gracias a redes más rápidas y estables.
-  - Menos carga de trabajo para los equipos de TI, ya que la IA gestiona muchos problemas automáticamente.
-  - Facilita la implementación de redes en grandes organizaciones y espacios públicos.
+  - Herramienta poderosa para cuerpos de seguridad y fuerzas policiales en investigaciones criminales.
+  - Controversia por el uso de datos biométricos y el potencial abuso de la privacidad.
+  - Posibilita un acceso más rápido a la identificación de personas involucradas en actividades sospechosas.
 - **Impacto ambiental:**
-  - Mayor uso de equipos conectados y procesadores avanzados con alta demanda de energía.
-  - Desafíos en la disposición y reciclaje de dispositivos de red.
+  - Elevado consumo energético para el análisis de grandes volúmenes de imágenes y datos.
+  - Dependencia de centros de datos con altas demandas de refrigeración y almacenamiento.
 - **Propuestas para minimizar:**
-  - Diseñar hardware que consuma menos energía para redes Wi-Fi.
-  - Promover el reciclaje y reutilización de dispositivos de red.
-  - Utilizar tecnologías de bajo consumo en ubicaciones donde la actividad sea intermitente.
+  - Reducir la escala de procesamiento mediante enfoques locales en lugar de centralizados.
+  - Implementar técnicas de compresión de datos para optimizar el almacenamiento y análisis.
+  - Regular su uso para evitar operaciones innecesarias y minimizar el impacto ético y energético.
 
 
-### **Darktrace Cyber AI**
+### **Palo Alto Networks Cortex XDR**
 - **Aplicaciones de la IA:**
-  - Detección y respuesta a ciberamenazas en tiempo real.
-  - Análisis de comportamiento para identificar actividades sospechosas.
-  - Protección automática frente a ataques avanzados como ransomware.
+  - Detección y respuesta ante incidentes de seguridad mediante análisis de datos en endpoints, redes y servidores.
+  - Correlación de eventos de seguridad para identificar patrones de ataque avanzados.
+  - Automatización de la remediación de amenazas para mitigar riesgos rápidamente.
 - **Impacto al sector:**
-  - Reducción de riesgos y tiempo de respuesta ante incidentes de seguridad.
-  - Menor necesidad de intervención humana en el monitoreo constante.
-  - Incremento de la confianza en la ciberseguridad de las organizaciones.
+  - Acelera la capacidad de respuesta a amenazas al integrar múltiples fuentes de datos en un solo sistema.
+  - Disminuye el número de ataques exitosos gracias a la identificación proactiva de vulnerabilidades.
+  - Reduce la carga de trabajo de los analistas de seguridad al priorizar amenazas críticas.
 - **Impacto ambiental:**
-  - Entrenamiento de modelos de IA en datos de amenazas consume mucha energía.
-  - Incremento del uso de centros de datos para el análisis en tiempo real.
+  - Procesamiento intensivo en la nube para analizar grandes cantidades de datos de seguridad.
+  - Incremento en el uso de infraestructura tecnológica para el monitoreo continuo.
 - **Propuestas para minimizar:**
-  - Entrenamiento en entornos más eficientes energéticamente.
-  - Uso de servidores compartidos en lugar de dedicados para disminuir el impacto.
-  - Reducción del tamaño de los modelos de detección sin comprometer la precisión.
+  - Uso de infraestructuras basadas en energías renovables.
+  - Reducción de la dependencia en análisis constantes mediante ajustes a demanda.
+  - Optimización del software para minimizar el consumo de recursos computacionales.
+
