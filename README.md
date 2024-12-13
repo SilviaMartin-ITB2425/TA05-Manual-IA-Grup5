@@ -1,10 +1,10 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 # Índice
 
-- [IAs para desenvolupar](#ias-para-desenvolupar)
-  - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
-  - [Juniper Mist AI](#juniper-mist-ai)
-  - [Darktrace Cyber AI](#palo-alto-networks-cortex-xdr)
+- [IAs para desenvolupar](#IAs-para-desenvolupadores)
+  - [Amazon Q Developer](#diffblue-cover)
+  - [Diffblue Cover](#diffblue-cover)
+  - [Tabnine](#tabnine)
     
 - [IAs para la gestión de la seguridad](#IAs-para-la-gestión-de-la-seguridad)
   - [IBM QRadar](#ibm-qradar)
