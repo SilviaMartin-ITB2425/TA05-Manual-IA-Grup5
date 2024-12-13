@@ -1,5 +1,6 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 
+
 ## IAs para desenvolupadores
 1. Amazon Q Developer
 2. Diffblue Cover
@@ -36,8 +37,26 @@
   - Al automatizar la generación y mantenimiento de pruebas unitarias, se reduce la necesidad de recursos computacionales intensivos que se requerirían para pruebas manuales repetitivas.
   - La automatización de pruebas puede reducir la demanda de trabajo humano en el desarrollo y mantenimiento de pruebas unitarias, lo que podría afectar a profesionales en este campo.
   - A medida que las empresas confían más en la automatización y la inteligencia artificial, pueden volverse dependientes de estas tecnologías, lo que puede limitar la flexibilidad y capacidad de respuesta ante cambios imprevistos.
-  ---
   
+  ### **Tabnine**
+  - **Aplicaciones de la IA:**
+  - Completación de Código Impulsada por IA
+  - Soporte Multilenguaje y de IDE
+  - Enfoque en Privacidad y Seguridad
+  - Aprendizaje Personalizado
+- **Impacto al sector:**
+  - Ayuda a los desarrolladores a escribir código más rápido
+  - Asiste a los nuevos desarrolladores en la comprensión y adherencia a los estándares y prácticas de codificación del equipo.
+  - Apoya a los desarrolladores que trabajan con múltiples lenguajes de programación al proporcionar sugerencias relevantes a través de diferentes sintaxis.
+- **Impacto ambiental:**
+  - Alto consumo energético debido debido a la infraestructura que utilizan los centros de procesamiento. 
+  - El entrenamiento de un único modelo generativo de IA contiene un alto consumo de agua.
+- **Propuestas para minimizar:**
+  - Optimizar los modelos para que consuman menos energía durante el entrenamiento.
+  - Utilizar hardware especifico para las IA.
+  
+---
+ 
 ## IAs para la Gestión de la Seguridad
   1. IBM QRadar
   2. Clearview AI
@@ -45,7 +64,6 @@
 
 
 ### **IBM QRadar**
-
 - **Aplicaciones de la IA:**
   - Detección de amenazas en tiempo real mediante el análisis de datos de múltiples fuentes.
   - Correlación automática de eventos de seguridad para identificar incidentes críticos.
@@ -64,7 +82,6 @@
 
 
 ### **Clearview AI**
-
 - **Aplicaciones de la IA:**
   - Identificación facial en tiempo real para la prevención de delitos.
   - Búsqueda en bases de datos masivas de imágenes para localizar sospechosos.
@@ -83,7 +100,6 @@
 
 
 ### **Palo Alto Networks Cortex XDR**
-
 - **Aplicaciones de la IA:**
   - Detección y respuesta ante incidentes de seguridad mediante análisis de datos en endpoints, redes y servidores.
   - Correlación de eventos de seguridad para identificar patrones de ataque avanzados.
@@ -100,7 +116,7 @@
   - Reducción de la dependencia en análisis constantes mediante ajustes a demanda.
   - Optimización del software para minimizar el consumo de recursos computacionales.
  
- ---
+---
  
 ## IAs para analisis de datos
 1. TensorFlow
@@ -171,7 +187,7 @@
   - Uso de servidores compartidos en lugar de dedicados para disminuir el impacto.
   - Reducción del tamaño de los modelos de detección sin comprometer la precisión.
  
- ---
+---
  
 ## IAs para redes
   1. Cisco AI Network Analytics
@@ -195,7 +211,6 @@
   - Desarrollar y utilizar algoritmos más eficientes que consuman menos energía, y aprovechar la computación en la nube con infraestructuras verdes y sostenibles.
   - **Inversión en Energías Renovables:** Si el proceso requiere un uso significativo de energía, invertir en fuentes de energía renovable puede compensar el impacto ambiental.
   - **Diversificación de Herramientas:** No depender exclusivamente de una sola herramienta de automatización. Usar una combinación de herramientas y técnicas que ofrezcan flexibilidad y reduzcan la dependencia tecnológica.
-   
 
 ### **Juniper Mist AI**
 - **Aplicaciones de la IA:**
@@ -216,7 +231,6 @@
 
 
 ### **Darktrace Cyber AI**
-
 - **Aplicaciones de la IA:**
   - Detección y respuesta a ciberamenazas en tiempo real.
   - Análisis de comportamiento para identificar actividades sospechosas.
@@ -259,5 +273,4 @@
 - **Propuestas para minimizar impactos ambientales:** Como esta IA tiene el mismo proposito y funcionalidades muy parecidas a las de Help Scout todo lo dicho para Help Scout aplica en esta: Eenergias renovables, optimizacion de algoritmos, reciclaje de hardware, centralizar servidores y monitorear los servidores.
 
 ---
-
 
