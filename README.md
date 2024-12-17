@@ -34,7 +34,7 @@
 3. Tabnine
 
 ### Amazon Q Developer
-![Descripción de la imagen](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/27/Q-dev-feat-img-new.png=100x20)
+![Descripción de la imagen](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/27/Q-dev-feat-img-new.png)
 
 - **Aplicaciones de la IA:**
   - Sugerencias de codigo: Genera sugerencias de codigo a tiempo real basado en tus comentarios y en el codigo ya existente.
