@@ -231,6 +231,7 @@
   3. Darktrace Cyber AI
    
 ### **Cisco AI Network Analytics**
+![Imagen de PyTorch  ](DiagramaCisco.png)
 - **Aplicaciones de la IA:**
   - Monitorización en tiempo real del tráfico de red.
   - Detección de anomalías y predicción de fallos.
