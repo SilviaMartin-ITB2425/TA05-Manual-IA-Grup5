@@ -203,7 +203,7 @@
   - Utilizar tecnologías de bajo consumo en ubicaciones donde la actividad sea intermitente.
 
 
-### H20ai
+### H20 ai
 - **Aplicaciones de la IA:**
   - H2O.ai promueve el uso de modelos de código abierto, lo que permite a los usuarios acceder y modificar los algoritmos según sus necesidades específicas.
   - Es altamente escalable y puede manejar grandes volúmenes de datos y modelos complejos, lo que es crucial para aplicaciones empresariales y de investigación.
