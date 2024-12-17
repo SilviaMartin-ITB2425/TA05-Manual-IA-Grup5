@@ -177,6 +177,8 @@
   - Alimentar los centros de datos con energías renovables como la solar, eólica o hidroeléctrica. Esto reduce la huella de carbono asociada con el consumo de energía.
   
 ### PyTorch
+![Imagen de PyTorch  ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40weidagang%2Flearning-pytorch-the-basic-program-structure-ed5723118b67&psig=AOvVaw25CsCoB_ycOGjc-0ouERJS&ust=1734507043189000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNian7ekrooDFQAAAAAdAAAAABAE)
+
 - **Aplicaciones de la IA:**
   - PyTorch se utiliza para construir y entrenar modelos de redes neuronales profundas, incluyendo redes convolucionales y recurrentes, ideales para tareas de visión por computadora y procesamiento de lenguaje natural.
   - Es fundamental para tareas de NLP como la traducción automática, análisis de sentimientos y generación de texto.
