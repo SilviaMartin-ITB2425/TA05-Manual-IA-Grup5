@@ -8,8 +8,8 @@
     
 - [IAs para la gestión de la seguridad](#ias-para-la-gestión-de-la-seguridad)
   - [IBM QRadar](#ibm-qradar)
-  - [Clearview AI](#clearview)
-  - [Cylance](#cylance)
+  - [Clearview AI](#clearview-ai)
+  - [Palo Alto Networks Cortex XDR](#palo-alto-networks-cortex-xdr) 
     
 - [IAs para analisis de datos](#ias-para-analisis-de-datos)
   - [TensorFlow](#tensorflow)
