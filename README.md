@@ -26,7 +26,7 @@
   - [Help Scout](#help-scout)
   - [Tidio](#tidio)
 
-
+- [Publicar GitHub Pages](#como-publicar-en-github-pages)
 
 ## IAs para desenvolupadores
 1. Amazon Q Developer
@@ -309,5 +309,5 @@
 - **Propuestas para minimizar impactos ambientales:** Como esta IA tiene el mismo proposito y funcionalidades muy parecidas a las de Help Scout todo lo dicho para Help Scout aplica en esta: Eenergias renovables, optimizacion de algoritmos, reciclaje de hardware, centralizar servidores y monitorear los servidores.
 
 ---
-### Com publicar-ho a GitHub pages
+### Como publicar en GitHub Pages
 Para empezar, tenemos que crear un repositorio público con cualquier nombre que le queramos dar, en nuestro caso le pondremos Manual-AI-ASIX. Después, subiremos todos los archivos del código e iremos a la configuración de nuestro repositorio, le daremos click al apartado "pages". Le damos a Sorcue y seleccionaremos el main de nuestro código, tardará unos minutos en generar una URL a nuestra página web. 
