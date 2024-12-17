@@ -1,12 +1,12 @@
 # TA05-ReyesManuel-AlaezMario-GarciaNayra-MartinSilvia
 
 # Índice
-- [IAs para desenvolupar](#IAs-para-desenvolupadores)
+- [IAs para desenvolupar](#ias-para-desenvolupadores)
   - [Amazon Q Developer](#amazon-q-developer)
   - [Diffblue Cover](#diffblue-cover)
   - [Tabnine](#tabnine)
     
-- [IAs para la gestión de la seguridad](#IAs-para-la-gestión-de-la-seguridad)
+- [IAs para la gestión de la seguridad](#ias-para-la-gestión-de-la-seguridad)
   - [IBM QRadar](#ibm-qradar)
   - [Clearview AI](#clearview)
   - [Cylance](#cylance)
