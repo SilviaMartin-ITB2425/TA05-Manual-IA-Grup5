@@ -34,6 +34,8 @@
 3. Tabnine
 
 ### Amazon Q Developer
+![Descripción de la imagen](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/11/27/Q-dev-feat-img-new.png)
+
 - **Aplicaciones de la IA:**
   - Sugerencias de codigo: Genera sugerencias de codigo a tiempo real basado en tus comentarios y en el codigo ya existente.
   - Soporte en CLI: Permite autocompletar comandos de bash, lo cual de por si ya es extremadamente util pero esque tambien traduce el lenguaje natural a bash.
