@@ -26,7 +26,7 @@
   - [Help Scout](#help-scout)
   - [Tidio](#tidio)
 
-- [Publicar GitHub Pages](#como-publicar-en-github-pages)
+- [Como publicar en GitHub Pages](#como-publicar-en-github-pages)
 
 ## IAs para desenvolupadores
 1. Amazon Q Developer
