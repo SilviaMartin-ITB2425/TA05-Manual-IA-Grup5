@@ -14,7 +14,7 @@
 - [IAs para analisis de datos](#ias-para-analisis-de-datos)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
-  - [H20.ai](#h20.ai)
+  - [H20.ai](#h20ai)
     
 - [IAs para redes](#ias-para-redes)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
@@ -203,7 +203,7 @@
   - Utilizar tecnologías de bajo consumo en ubicaciones donde la actividad sea intermitente.
 
 
-### H20.ai
+### H20ai
 - **Aplicaciones de la IA:**
   - H2O.ai promueve el uso de modelos de código abierto, lo que permite a los usuarios acceder y modificar los algoritmos según sus necesidades específicas.
   - Es altamente escalable y puede manejar grandes volúmenes de datos y modelos complejos, lo que es crucial para aplicaciones empresariales y de investigación.
