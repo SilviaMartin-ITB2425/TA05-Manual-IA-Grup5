@@ -288,6 +288,7 @@
 3. Tidio
 
 ### Modelos de Lenguaje
+![Descripción de la imagen](Diagrama.png)
 - **Aplicaciones de la IA:** Puede dar asistencia en una gran variedad de aspectos como la programacion, la generacion de contenido, traduccion de idiomas entre otras.
 - **Impacto al sector:** Sin duda los modelos de lenguaje como Chat GPT han tenido un impacto gigantesco en el sector, tareas que antes eran tardias ahora se pueden automatizar y hacer en cuestion de segundos.
 - **Impacto ambiental:** Los modelos de lenguaje tienen un impacto ambiental aunque principalmente este viene a causa del entrenamiento, que requiere de grandes capacidades de energia, y por lo tanto deja una huella de carbono considerable. 
