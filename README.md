@@ -305,4 +305,4 @@
 
 ---
 ### Com publicar-ho a GitHub pages
-Para empezar, tenemos que crear un repositorio publico con cualquier nombre que le queramos dar, en nuestro caso le pondremos Manual-AI-ASIX. Después, subiremos todos los archivos del código e iremos a la configuración de nuestro repositorio, le daremos click al apartado "pages". Le damos a Sorcue y seleccionaremos el main de nuestro código, tardara unos minutos genera una URL a nuestra pagina web.
+Para empezar, tenemos que crear un repositorio público con cualquier nombre que le queramos dar, en nuestro caso le pondremos Manual-AI-ASIX. Después, subiremos todos los archivos del código e iremos a la configuración de nuestro repositorio, le daremos click al apartado "pages". Le damos a Sorcue y seleccionaremos el main de nuestro código, tardará unos minutos en generar una URL a nuestra página web. 
