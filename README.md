@@ -14,7 +14,7 @@
 - [IAs para analisis de datos](#ias-para-analisis-de-datos)
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
-  - [H20.ai](#h20ai)
+  - [H20 ai](#h20-ai)
     
 - [IAs para redes](#ias-para-redes)
   - [Cisco IA Network Analytics](#cisco-ai-network-analytics)
